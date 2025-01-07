@@ -1,0 +1,8 @@
+*.dvi
+*-converted-to.*
+*.ps
+*.eps
+*.pdf
+*.png
+*.gif
+*.json
